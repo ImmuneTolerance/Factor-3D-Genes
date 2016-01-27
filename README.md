@@ -1,4 +1,4 @@
-This is a Java application that uses the Processing framework and the LabKey API in order to connect to the Immune Tolerance Network TrialShare clinical trials portal.
+This is a Java application that uses the Processing framework and the LabKey API in order to connect to the Immune Tolerance Network TrialShare clinical trials portal. 
 
 After receiving the data from TrialShare, this program will display points in a navigable 3D format.  You will also be able to hover over points and see specific participant information regarding that point.  You can also export images of any given view.
 
@@ -13,5 +13,7 @@ Enter your user credentials in the TrialshareConnectAndReceive class, or add a p
 Upon successfully launching the program, you will be presented with a quick camera 'flythrough' of the data.  Upon completion of that, you should be able to use your mouse to rotate and navigate around the data. Note the buttons at the top to switch camera views and provide other functionality.
 
 This program could become the basis for other 3D visualizations and explorations of publicly available TrialShare data.
+
+Frameworks and technologies involved include Processing, LabKey, Apache Commons, JodaTime, Gluegen, Javatuples, Opencsv, Remixlab Proscene, ControlP5 and others.  See the 'lib' folder for the full list of jars.
 
 This source code and program are intended for intermediate to advanced Java programmers.  Please contact us at trialsharescience@immunetolerance.org if you have questions or wish to join this project.

@@ -12,4 +12,6 @@ Enter your user credentials in the TrialshareConnectAndReceive class, or add a p
 
 Upon successfully launching the program, you will be presented with a quick camera 'flythrough' of the data.  Upon completion of that, you should be able to use your mouse to rotate and navigate around the data. Note the buttons at the top to switch camera views and provide other functionality.
 
+This program could become the basis for other 3D visualizations and explorations of publicly available TrialShare data.
+
 This source code and program are intended for intermediate to advanced Java programmers.  Please contact us at trialsharescience@immunetolerance.org if you have questions or wish to join this project.
